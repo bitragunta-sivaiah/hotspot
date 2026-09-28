@@ -1,8 +1,7 @@
 {
   "/(site)/page": "app/(site)/page.js",
-  "/(site)/menu/page": "app/(site)/menu/page.js",
-  "/(site)/contact/page": "app/(site)/contact/page.js",
-  "/admin/customers/page": "app/admin/customers/page.js",
-  "/admin/analytics/page": "app/admin/analytics/page.js",
-  "/(site)/orders/page": "app/(site)/orders/page.js"
+  "/(site)/cart/page": "app/(site)/cart/page.js",
+  "/(site)/orders/page": "app/(site)/orders/page.js",
+  "/(site)/track-order/[orderId]/page": "app/(site)/track-order/[orderId]/page.js",
+  "/(site)/menu/page": "app/(site)/menu/page.js"
 }
